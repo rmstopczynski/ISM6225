@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stopc\\OneDrive - University of South Florida\\University\\Graduate 04-06\\ISM 6255\\Guessing_Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAE8A51-60D6-447A-A6E9-E7847486A7A0}|Guessing_Game.csproj|c:\\users\\stopc\\onedrive - university of south florida\\university\\graduate 04-06\\ism 6255\\guessing_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAE8A51-60D6-447A-A6E9-E7847486A7A0}|Guessing_Game.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stopc\\OneDrive - University of South Florida\\University\\Graduate 04-06\\ISM 6255\\Guessing_Game\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\stopc\\OneDrive - University of South Florida\\University\\Graduate 04-06\\ISM 6255\\Guessing_Game\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:38:43.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
